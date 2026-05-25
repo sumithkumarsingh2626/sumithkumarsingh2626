@@ -1,8 +1,8 @@
-<div align="center" style="background-image: url('https://raw.githubusercontent.com/sumithkumarsingh2626/sumithkumarsingh2626/main/assets/background.jpg'); background-size: cover; background-position: center; background-attachment: fixed; padding: 60px 20px; border-radius: 10px;">
+<div align="center">
+
+![Profile Banner](https://raw.githubusercontent.com/sumithkumarsingh2626/sumithkumarsingh2626/main/assets/background.jpg)
 
 # 🌟 Hi there, I'm Sumith Kumar Singh
-
-<div style="background: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 10px; backdrop-filter: blur(10px);">
 
 ### 💻 Fullstack Developer | DevOps Enthusiast | Cybersecurity Passionate
 
@@ -12,8 +12,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
 
 📍 **Vizag** | 🎓 **CSE Student @ BITS Vizag** | 🚀 **Building Tomorrow's Web**
-
-</div>
 
 </div>
 
