@@ -1,83 +1,225 @@
-# Hi there, I'm Sumith Kumar Singh 👋
+# 🌟 Hi there, I'm Sumith Kumar Singh
 
-**CSE Student | BITS Vizag | Vizag**
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate fullstack developer with interests in DevOps, cloud computing, and cybersecurity. I love building scalable web applications and exploring the latest technologies.
+### 💻 Fullstack Developer | DevOps Enthusiast | Cybersecurity Passionate
+
+[![GitHub followers](https://img.shields.io/github/followers/sumithkumarsingh2626?style=social)](https://github.com/sumithkumarsingh2626)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumithkumarsingh2626@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
+
+📍 **Vizag** | 🎓 **CSE Student @ BITS Vizag** | 🚀 **Building Tomorrow's Web**
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a Computer Science Engineering student at BITS Vizag with a strong interest in:
-- **Fullstack Web Development** - Building end-to-end web applications
-- **DevOps & Cloud Computing** - Deploying and managing applications at scale
-- **Ethical Hacking & VAPT** - Understanding security measures and vulnerability assessments
-- **Automations** - Streamlining workflows and processes
+I'm a passionate **Fullstack Developer** with a keen interest in building scalable applications, managing cloud infrastructure, and securing systems. I believe in writing clean code, deploying smartly, and staying secure.
+
+> *"Code today, secure tomorrow, deploy everywhere!"* 🚀
+
+<div align="center">
+
+| 🎨 **Design** | 🔧 **Build** | ☁️ **Deploy** | 🔐 **Secure** |
+|---|---|---|---|
+| React, Tailwind | Node.js, MongoDB | DevOps, Cloud | Ethical Hacking |
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### ✅ Full-Stack Development
+- Building end-to-end web applications
+- Responsive UI/UX design
+- RESTful API development
+- Database optimization
+
+</td>
+<td width="50%">
+
+### ☁️ DevOps & Cloud
+- Application deployment
+- CI/CD pipelines
+- Cloud infrastructure
+- Container orchestration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity & VAPT
+- Security best practices
+- Vulnerability assessments
+- Penetration testing
+- Security awareness
+
+</td>
+<td width="50%">
+
+### 🤖 Automations
+- Workflow automation
+- Script development
+- Process optimization
+- System administration
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend:**
-- HTML5, CSS, JavaScript
-- React.js, Tailwind CSS, Bootstrap
+<div align="center">
 
-**Backend & Databases:**
-- Node.js
-- MongoDB
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**Other Skills:**
-- Python (Basics)
-- Automations
-- DevOps & Cloud Computing
-- Ethical Hacking & VAPT
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+### ☁️ DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 🎯 What I Do
+### 🔐 Security
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat&logo=security&logoColor=white)
+![VAPT](https://img.shields.io/badge/-VAPT-FF6B6B?style=flat&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-1a1a1a?style=flat&logoColor=white)
 
-✅ Build full-stack web applications from scratch  
-✅ Deploy applications using modern cloud solutions  
-✅ Implement DevOps best practices  
-✅ Apply cybersecurity principles and conduct vulnerability assessments  
-✅ Automate repetitive tasks and workflows
-
----
-
-## 🏆 Projects
-
-### 1. **Student Management System**
-A comprehensive system for managing student records and information.  
-🔗 [Live Demo](https://smart-student-system.vercel.app/login)
-
-### 2. **Price Drop Alert Tool**
-Monitor product prices and get alerts when they drop.  
-🔗 [Live Demo](https://price-drop-one.vercel.app)
-
-### 3. **College Canteen Webpage**
-A static webpage for the college canteen with menu and information.
+</div>
 
 ---
 
-## 🎖️ Achievements
+## 🏆 Featured Projects
 
-🏅 **Merit Student** in Cyber Security Hackathon (CTF) by Supraja Technologies
+<div align="center">
 
----
+### 🎓 Student Management System
+**Full-Stack Web Application**
 
-## 📫 Connect With Me
+![Project Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat)
+![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat)
 
-- **Email:** [sumithkumar2626@gmail.com](mailto:sumithkumar2626@gmail.com)
-- **LinkedIn:** [sumith-kumar-singh-81773638b](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
-- **Portfolio:** [portfolio-six-orcin](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
-- **Instagram:** [@sumith_kumar_singh](https://www.instagram.com/sumith_kumar_singh)
+Comprehensive system for managing student records, enrollment, and academic information.
 
----
+**Tech Stack:** React.js | Node.js | MongoDB | Tailwind CSS
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumithkumarsingh2626&color=blueviolet)
+[🚀 Live Demo](https://smart-student-system.vercel.app/login) | [📁 Repository](https://github.com/sumithkumarsingh2626)
 
 ---
 
-**Let's collaborate and build something amazing together!** 🚀
+### 💰 Price Drop Alert Tool
+**Real-Time Price Monitoring**
+
+![Project Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat)
+![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat)
+
+Smart tool to monitor product prices across e-commerce platforms and receive instant alerts when prices drop.
+
+**Tech Stack:** React.js | APIs | JavaScript | Bootstrap
+
+[🚀 Live Demo](https://price-drop-one.vercel.app) | [📁 Repository](https://github.com/sumithkumarsingh2626)
+
+---
+
+### 🍽️ College Canteen Webpage
+**Static Website**
+
+![Project Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat)
+![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat)
+
+Professional webpage showcasing canteen menu, pricing, and information with responsive design.
+
+**Tech Stack:** HTML5 | CSS3 | JavaScript
+
+[🌐 View](https://github.com/sumithkumarsingh2626) | [📁 Repository](https://github.com/sumithkumarsingh2626)
+
+</div>
+
+---
+
+## 🎖️ Achievements & Recognition
+
+<div align="center">
+
+| 🏅 Achievement | 📅 Date | 🏢 Organization |
+|---|---|---|
+| **Merit Student - Cyber Security Hackathon (CTF)** | 2024 | Supraja Technologies |
+| **Fullstack Development Expert** | Ongoing | Self-Learning |
+| **DevOps & Cloud Computing Enthusiast** | Ongoing | Cloud Community |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumithkumarsingh2626&theme=radical&hide_border=true)](https://github.com/sumithkumarsingh2626)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumithkumarsingh2626&style=flat-square&color=0891b2)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithkumarsingh2626@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumith_kumar_singh)
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> **"Great code is not just about making things work,**  
+> **it's about making them secure, scalable, and sustainable."** 🚀
+
+### 🎯 Currently Exploring
+- 🔍 Advanced Cybersecurity & Penetration Testing
+- ☁️ Cloud-Native Architecture & Kubernetes
+- 🤖 AI/ML Integration in Web Applications
+- 🔗 Blockchain & Web3 Technologies
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's Build Something Amazing Together! ✨
+
+Feel free to reach out for collaborations, projects, or just a friendly tech chat!
+
+**Made with ❤️ by Sumith Kumar Singh**
+
+</div>
