@@ -1,15 +1,19 @@
+<div align="center" style="background-image: url('https://raw.githubusercontent.com/sumithkumarsingh2626/sumithkumarsingh2626/main/assets/background.jpg'); background-size: cover; background-position: center; background-attachment: fixed; padding: 60px 20px; border-radius: 10px;">
+
 # 🌟 Hi there, I'm Sumith Kumar Singh
 
-<div align="center">
+<div style="background: rgba(0, 0, 0, 0.6); padding: 30px; border-radius: 10px; backdrop-filter: blur(10px);">
 
 ### 💻 Fullstack Developer | DevOps Enthusiast | Cybersecurity Passionate
 
 [![GitHub followers](https://img.shields.io/github/followers/sumithkumarsingh2626?style=social)](https://github.com/sumithkumarsingh2626)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumithkumarsingh2626@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumithkumar2626@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
 
 📍 **Vizag** | 🎓 **CSE Student @ BITS Vizag** | 🚀 **Building Tomorrow's Web**
+
+</div>
 
 </div>
 
@@ -17,9 +21,13 @@
 
 ## 🎯 About Me
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; margin: 20px 0;">
+
 I'm a passionate **Fullstack Developer** with a keen interest in building scalable applications, managing cloud infrastructure, and securing systems. I believe in writing clean code, deploying smartly, and staying secure.
 
 > *"Code today, secure tomorrow, deploy everywhere!"* 🚀
+
+</div>
 
 <div align="center">
 
@@ -35,7 +43,7 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="background: #E8F4F8; padding: 15px; border-radius: 10px; border-left: 4px solid #00BCD4;">
 
 ### ✅ Full-Stack Development
 - Building end-to-end web applications
@@ -44,7 +52,7 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 - Database optimization
 
 </td>
-<td width="50%">
+<td width="50%" style="background: #FFF3E0; padding: 15px; border-radius: 10px; border-left: 4px solid #FF9800;">
 
 ### ☁️ DevOps & Cloud
 - Application deployment
@@ -55,7 +63,7 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="background: #F3E5F5; padding: 15px; border-radius: 10px; border-left: 4px solid #9C27B0;">
 
 ### 🔐 Cybersecurity & VAPT
 - Security best practices
@@ -64,7 +72,7 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 - Security awareness
 
 </td>
-<td width="50%">
+<td width="50%" style="background: #E8F5E9; padding: 15px; border-radius: 10px; border-left: 4px solid #4CAF50;">
 
 ### 🤖 Automations
 - Workflow automation
@@ -114,6 +122,8 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 
 <div align="center">
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 15px 0; color: white;">
+
 ### 🎓 Student Management System
 **Full-Stack Web Application**
 
@@ -126,7 +136,9 @@ Comprehensive system for managing student records, enrollment, and academic info
 
 [🚀 Live Demo](https://smart-student-system.vercel.app/login) | [📁 Repository](https://github.com/sumithkumarsingh2626)
 
----
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; margin: 15px 0; color: white;">
 
 ### 💰 Price Drop Alert Tool
 **Real-Time Price Monitoring**
@@ -140,7 +152,9 @@ Smart tool to monitor product prices across e-commerce platforms and receive ins
 
 [🚀 Live Demo](https://price-drop-one.vercel.app) | [📁 Repository](https://github.com/sumithkumarsingh2626)
 
----
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; margin: 15px 0; color: white;">
 
 ### 🍽️ College Canteen Webpage
 **Static Website**
@@ -156,11 +170,13 @@ Professional webpage showcasing canteen menu, pricing, and information with resp
 
 </div>
 
+</div>
+
 ---
 
 ## 🎖️ Achievements & Recognition
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #FFA500 0%, #FF6B6B 100%); padding: 20px; border-radius: 10px; color: white; margin: 20px 0;">
 
 | 🏅 Achievement | 📅 Date | 🏢 Organization |
 |---|---|---|
@@ -189,7 +205,7 @@ Professional webpage showcasing canteen menu, pricing, and information with resp
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithkumarsingh2626@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithkumar2626@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumith_kumar_singh)
 
@@ -199,7 +215,7 @@ Professional webpage showcasing canteen menu, pricing, and information with resp
 
 ## 💡 Philosophy
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); padding: 25px; border-radius: 10px; color: white;">
 
 > **"Great code is not just about making things work,**  
 > **it's about making them secure, scalable, and sustainable."** 🚀
@@ -214,7 +230,7 @@ Professional webpage showcasing canteen menu, pricing, and information with resp
 
 ---
 
-<div align="center">
+<div align="center" style="background: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; color: white; margin-top: 30px;">
 
 ### ✨ Let's Build Something Amazing Together! ✨
 
