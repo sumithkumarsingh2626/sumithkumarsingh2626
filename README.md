@@ -1,17 +1,28 @@
 <div align="center">
 
-![Profile Banner](https://raw.githubusercontent.com/sumithkumarsingh2626/sumithkumarsingh2626/main/assets/background.jpg)
-
 # 🌟 Hi there, I'm Sumith Kumar Singh
 
+<div style="background: linear-gradient(180deg, #87CEEB 0%, #87CEEB 30%, #90EE90 40%, #228B22 60%, #1E90FF 80%, #4682B4 100%); padding: 80px 20px; border-radius: 15px; margin-bottom: 30px; position: relative; overflow: hidden;">
+
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: 
+  repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(255,255,255,0.1) 10px, rgba(255,255,255,0.1) 20px),
+  repeating-linear-gradient(0deg, transparent, transparent 10px, rgba(255,255,255,0.05) 10px, rgba(255,255,255,0.05) 20px);
+  pointer-events: none;"></div>
+
+<div style="position: relative; z-index: 1;">
+
 ### 💻 Fullstack Developer | DevOps Enthusiast | Cybersecurity Passionate
+
+📍 **Vizag** | 🎓 **CSE Student @ BITS Vizag** | 🚀 **Building Tomorrow's Web**
+
+</div>
+
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/sumithkumarsingh2626?style=social)](https://github.com/sumithkumarsingh2626)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sumithkumar2626@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
-
-📍 **Vizag** | 🎓 **CSE Student @ BITS Vizag** | 🚀 **Building Tomorrow's Web**
 
 </div>
 
