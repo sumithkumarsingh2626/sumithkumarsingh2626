@@ -41,7 +41,9 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 
 ## 🚀 What I Do
 
-<table>
+<div align="center">
+
+<table style="margin: 0 auto; text-align: center;">
 <tr>
 <td width="50%" style="background: #E8F4F8; padding: 15px; border-radius: 10px; border-left: 4px solid #00BCD4;">
 
@@ -83,6 +85,8 @@ I'm a passionate **Fullstack Developer** with a keen interest in building scalab
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
