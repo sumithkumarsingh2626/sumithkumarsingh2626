@@ -35,7 +35,7 @@
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; margin: 20px 0;">
 
-I'm a passionate **Fullstack Developer** with a keen interest in building scalable applications, managing cloud infrastructure, and securing systems. I believe in writing clean code, deploying smartly, and staying secure.
+I'm a passionate **Fullstack Developer** with a keen interest in building scalable applications, managing cloud infrastructure, and securing systems. I believe in writing clean code, deploying smart solutions, and staying ahead of the curve with emerging technologies.
 
 > *"Code today, secure tomorrow, deploy everywhere!"* 🚀
 
@@ -221,6 +221,7 @@ Professional webpage showcasing canteen menu, pricing, and information with resp
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sumith_kumar_singh)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithkumar2626@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-orcin-g54w0jxf9f.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumith_kumar_singh)
