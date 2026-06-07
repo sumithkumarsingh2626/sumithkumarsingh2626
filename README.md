@@ -20,7 +20,7 @@
       </a>
     </td>
     <td>
-      <a href="https://sumith-kumar-singh-portfoli.vercel.app">
+      <a href="https://sumith-kumar-singh-portfolio.vercel.app">
         <img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
       </a>
     </td>
@@ -223,7 +223,7 @@ Professional webpage showcasing canteen menu, pricing, and information with resp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-kumar-singh-81773638b/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sumith_kumar_singh)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithkumar2626@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://https://sumith-kumar-singh-portfoli.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://https://sumith-kumar-singh-portfolio.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumith_kumar_singh)
 
 </div>
